@@ -30,6 +30,7 @@ Development Enthusiast. I am a self learner and having absolute knowledge of Flu
 
    <div>
   <h3>Tools
+     
     <p>
     <div>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -41,13 +42,11 @@ Development Enthusiast. I am a self learner and having absolute knowledge of Flu
   </div>
   
   <div>
-
 - 🔭 I’m currently working on Full stack projects
 - 🌱 I’m currently learning Blockchain
 - 💬 Ask me about Flutter & Android Development 
 - 🤟 Fun Fact : I am always curious to learn & explore new technologies in the market.
 - 📫 How to reach me: Mail me at : sakshamgarg.s.k.36@gmail.com
-
    </div>
    
 <div>
