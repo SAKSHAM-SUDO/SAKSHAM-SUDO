@@ -30,24 +30,22 @@ Development Enthusiast. I am a self learner and having absolute knowledge of Flu
 
    <div>
   <h3>Tools
-     
     <p>
     <div>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />   
    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
       </div>  
    </p>
   </div>
   
-  <div>
+  
 - 🔭 I’m currently working on Full stack projects
 - 🌱 I’m currently learning Blockchain
 - 💬 Ask me about Flutter & Android Development 
 - 🤟 Fun Fact : I am always curious to learn & explore new technologies in the market.
 - 📫 How to reach me: Mail me at : sakshamgarg.s.k.36@gmail.com
-   </div>
+   
    
 <div>
   <h3>Social
