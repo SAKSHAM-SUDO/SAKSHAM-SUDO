@@ -39,6 +39,8 @@ Development Enthusiast. I am a self learner and having absolute knowledge of Flu
       </div>  
    </p>
   </div>
+  
+  <div>
 
 - 🔭 I’m currently working on Full stack projects
 - 🌱 I’m currently learning Blockchain
@@ -46,6 +48,8 @@ Development Enthusiast. I am a self learner and having absolute knowledge of Flu
 - 🤟 Fun Fact : I am always curious to learn & explore new technologies in the market.
 - 📫 How to reach me: Mail me at : sakshamgarg.s.k.36@gmail.com
 
+   </div>
+   
 <div>
   <h3>Social
     <p>
